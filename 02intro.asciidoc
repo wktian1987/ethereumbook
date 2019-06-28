@@ -1,6 +1,10 @@
 [[intro_chapter]]
 == Ethereum Basics
 
+文凯测试用 账户
+mnenonic words：nothing fame umbrella ignore degree burden tip deny total jewel road arena
+
+
 In this chapter we will start exploring Ethereum, learning how to use wallets, how to create transactions, and also how to run a basic smart contract.
 
 [[ether_units]]
